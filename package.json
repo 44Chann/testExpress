@@ -14,7 +14,7 @@
     "body-parser": "^1.19.2",
     "cors": "^2.8.5",
     "express": "^4.17.3",
-    "newsapi": "^2.4.1",
+    "global": "^4.4.0",
     "node-fetch": "^3.2.3"
   },
   "devDependencies": {
