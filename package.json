@@ -4,8 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "type": "module",
+  "engines": {
+    "nod": "14.x"
+  },
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.mjs"
   },
   "dependencies": {
     "body-parser": "^1.19.2",
